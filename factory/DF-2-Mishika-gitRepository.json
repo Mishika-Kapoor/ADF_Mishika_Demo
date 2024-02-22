@@ -1,0 +1,9 @@
+{
+	"name": "DF-2-Mishika-gitRepository",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "764f0aca-0bcd-4d8d-bea1-c828a1881794",
+		"tenantId": "28075784-374a-42da-85a1-de80a53f5ebc"
+	}
+}
